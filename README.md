@@ -2,10 +2,10 @@
 
 
 
-- 👋Hi, I’m currently working with javascript, and its framework, using them to build fun, functional Web Projects
+- 👋Hi, I’m currently working with Node.js, MySQL, express.js and other framework, using them to build fun, functional Web Projects
 
 - 👀 I’m interested in .looking to collaborate on Junior Developer roles or Partnership with other young developers
-- 🌱 I’m currently learning .javascript , django , MySQL and JSON
+- 🌱 I’m currently learning MERN
 - 
 - 💞️ I’m looking to collaborate on Backend development
 - 📫 How to reach me gmail fadojuenoch@gmail.com or +2348135182507
